@@ -1,16 +1,14 @@
 # Upvotes-Prediction-Analytics-vidhya
 
+The competition focusses on predicting the upvotes for a particular type of question. 
+
+I was able to secure 571st rank out of 1340 participants! 
+
+Here are the screenshots of the same! 
 
 
+![image](https://user-images.githubusercontent.com/20862520/155949918-7d6901cf-d087-4baa-b5d7-9549f936c636.png)
+
+![image](https://user-images.githubusercontent.com/20862520/155950057-36d0823d-d3ed-4800-b485-c4b3d69dee29.png)
 
 
-	Model 	Train_R2 	Test_R2 	Train_RMSE 	Test_RMSE 	Train_MAE 	Test_MAE
-6 	GB 	    0.959935 	0.914014 	746.255288 	790.742800 	143.083860 	144.696316
-5 	XGB 	0.992184 	0.884423 	329.613648 	916.766257 	78.327659 	104.581260
-2 	RF 	    0.982796 	0.878319 	489.014018 	940.660421 	41.187809 	106.953060
-7 	XGBRF 	0.958569 	0.858017 	758.863488 	1016.110277 136.217478 	141.858148
-8 	KNN 	0.812333 	0.839409 	1615.093028 1080.644008 101.365924 	113.635789
-1 	DT 	    1.000000 	0.759424 	0.171497 	1322.658956 0.001996 	140.222968
-4 	LGBM 	0.824864 	0.711051 	1560.240484 1449.549171 121.426367 	124.136994
-3 	CAT 	0.964807 	0.710200 	699.411267 	1451.681110 99.784210 	121.724601
-0 	LR 	    0.244538 	0.372729 	3240.482899 2135.746093 603.123247 	579.344854
